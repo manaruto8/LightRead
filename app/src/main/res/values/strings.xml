@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">轻阅读</string>
+    <!--主页列表-->
+    <string name="mainlist_read">阅读</string>
+    <string name="mainlist_setting">设置</string>
+    <!--阅读列表-->
+    <string name="readlist_zhihu">知乎专栏</string>
+    <string name="readlist_weibo">微博热门</string>
+    <string name="readlist_douban">豆瓣精选</string>
+    <string name="readlist_weixin">微信头条</string>
+</resources>
